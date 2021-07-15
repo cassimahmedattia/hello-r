@@ -1,3 +1,6 @@
+# This is from Git
+print("Hello from Github")
+
 name = "Cassim"
 version = "Rstudio - In writing"
 
